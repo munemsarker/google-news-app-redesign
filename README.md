@@ -1,7 +1,12 @@
-# Google News app
+## News app like Google news!
 
-Flutter Google New App UI Redesign
+## ScreenShots
 
-## YouTube Link:
+<img src="./one.jpg" height="250"/>
+<img src="./two.jpg" height="250"/>
 
-[Flutter Google News app UI Redesign | Speed Code](https://youtu.be/aYr0pukqSKc)
+# If you face any problem with this project or repositories just contact with me on 
+
+- facebook: www.facebook.com/munemuddin.engineer
+
+- instagram: www.instagram.com/munemsarker
